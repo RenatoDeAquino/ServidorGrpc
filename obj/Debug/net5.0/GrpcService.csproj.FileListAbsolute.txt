@@ -120,5 +120,3 @@
 /home/w3-as/Documents/github/ServidorGrpc/obj/Debug/net5.0/GrpcService.RazorTargetAssemblyInfo.cache
 /home/w3-as/Documents/github/ServidorGrpc/obj/Debug/net5.0/GrpcService.csproj.CopyComplete
 /home/w3-as/Documents/github/ServidorGrpc/obj/Debug/net5.0/GrpcService.genruntimeconfig.cache
-/home/w3-as/Documents/github/ServidorGrpc/obj/Debug/net5.0/GrpcService.RazorAssemblyInfo.cache
-/home/w3-as/Documents/github/ServidorGrpc/obj/Debug/net5.0/GrpcService.RazorAssemblyInfo.cs
