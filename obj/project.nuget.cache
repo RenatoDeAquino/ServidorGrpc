@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZHXqCOvvZ1W8L1ECJZxm/XiSiAmAPpzIIZA1KZmJQ30MgATUgHobsjxqKzQFLbVLx04fNEPlEIi/NnIRHoEdw==",
+  "dgSpecHash": "EchAZ5WpvfYhWf5FU7sN2XjR65h4XoPCyO3M/ddfS2uaR9U/Bmg8m5OlqsStwektTsLleMnMx6zE0QPCD+7A5A==",
   "success": true,
-  "projectFilePath": "/home/w3-as/Documents/nova-auto/grpc/CrudGrpc/GrpcService/GrpcService.csproj",
+  "projectFilePath": "/home/w3-as/Documents/github/ServidorGrpc/GrpcService.csproj",
   "expectedPackageFiles": [
     "/home/w3-as/.nuget/packages/google.protobuf/3.14.0/google.protobuf.3.14.0.nupkg.sha512",
     "/home/w3-as/.nuget/packages/grpc.aspnetcore/2.34.0/grpc.aspnetcore.2.34.0.nupkg.sha512",

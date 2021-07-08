@@ -6109,11 +6109,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/w3-as/Documents/nova-auto/grpc/CrudGrpc/GrpcService/GrpcService.csproj",
+      "projectUniqueName": "/home/w3-as/Documents/github/ServidorGrpc/GrpcService.csproj",
       "projectName": "GrpcService",
-      "projectPath": "/home/w3-as/Documents/nova-auto/grpc/CrudGrpc/GrpcService/GrpcService.csproj",
+      "projectPath": "/home/w3-as/Documents/github/ServidorGrpc/GrpcService.csproj",
       "packagesPath": "/home/w3-as/.nuget/packages/",
-      "outputPath": "/home/w3-as/Documents/nova-auto/grpc/CrudGrpc/GrpcService/obj/",
+      "outputPath": "/home/w3-as/Documents/github/ServidorGrpc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/w3-as/.nuget/NuGet/NuGet.Config"
