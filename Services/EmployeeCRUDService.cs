@@ -1,15 +1,7 @@
-using DataAccess = GrpcService.DataAccess;
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System;
 using System.Threading.Tasks;
-using GrpcService.DataAccess;
 using System.Linq;
 
 using Grpc.Core;
-using Microsoft.Extensions.Logging;
-
 namespace GrpcService.Services
 {
     public class EmployeeCRUDService : EmployeeCRUD.EmployeeCRUDBase
