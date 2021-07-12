@@ -1,0 +1,12 @@
+﻿@model GrpcService.Employees
+
+<table border="1" cellpadding="10">
+    @foreach (var item in Model.Items)
+    {
+        <tr>
+            <td>@item.EmployeeId</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+        </tr>
+    }
+</table>
